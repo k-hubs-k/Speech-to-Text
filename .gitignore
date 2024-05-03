@@ -5,4 +5,5 @@ res/analysed_data
 res/datasets/audio_train
 res/mfcc_data
 res/recorded
-
+*.wav
+*.ipynb
