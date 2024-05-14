@@ -146,7 +146,7 @@ labels = np.array([transcription["transcription"] for transcription in transcrip
 
 # Chemin du dossier à parcourir
 audio_dir = "res/datasets/audio_train/"
-# target_length = Target_length(audio_dir)
+target_length = Target_length(audio_dir)
 # Liste pour stocker les caractéristiques MFCC de chaque fichier audio
 mfcc_features_list = []
 
