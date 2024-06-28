@@ -1,8 +1,8 @@
 {
-    "input_size": 494,
+    "input_size": 6708,
     "hidden_size": 1024,
-    "num_classes": 3000,
+    "num_classes": 100,
     "num_epochs": 120,
-    "batch_size": 2400,
+    "batch_size": 80,
     "learning_rate": 0.001
 }

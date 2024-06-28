@@ -185,5 +185,5 @@ class Custom_preprocessing:
         np.save(self.output_file, X)
 
 
-audio_ = "./9_yweweler_46.wav"
+audio_ = "200704-112542_plt_cfe_elicit_5.wav"
 test = Custom_preprocessing(audio_, "works.npy")
