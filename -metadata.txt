@@ -1,0 +1,16 @@
+manisa/0-1.wav | aotra
+manisa/0-2.wav | aotra
+manisa/0-3.wav | aotra
+manisa/0-4.wav | aotra
+manisa/0-5.wav | aotra
+manisa/0.1.wav | aotra
+manisa/0.2.wav | aotra
+manisa/0.3.wav | aotra
+manisa/0_1.wav | aotra
+manisa/0_10.wav | aotra
+manisa/0_11.wav | aotra
+manisa/0_12.wav | aotra
+manisa/0_13.wav | aotra
+manisa/0_2.wav | aotra
+manisa/0_3.wav | aotra
+manisa/0_4.wav | aotra
